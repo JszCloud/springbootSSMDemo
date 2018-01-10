@@ -1,4 +1,4 @@
-package cn.name.demo.dao;
+package cn.name.demo.mapper;
 
 import cn.name.demo.domain.User;
 import cn.name.demo.domain.UserExample;

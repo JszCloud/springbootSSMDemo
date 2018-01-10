@@ -7,7 +7,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @SpringBootApplication
 @EnableTransactionManagement//开启事务管理
-@MapperScan("cn.name.demo.dao")//主要作用是扫描包
+@MapperScan("cn.name.demo.mapper")//主要作用是扫描包
 public class SpringBootSsmDemoApplication {
 
 	public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package cn.name.demo.service.impl;
 
-import cn.name.demo.dao.UserMapper;
+import cn.name.demo.mapper.UserMapper;
 import cn.name.demo.domain.User;
 import cn.name.demo.domain.UserExample;
 import cn.name.demo.service.UserService;
